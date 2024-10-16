@@ -1,0 +1,1 @@
+https://blendd.netlify.app
